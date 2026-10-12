@@ -38,7 +38,14 @@ section {
     width: 25%;
     padding: 10px;
     text-align: center;
-    background-color: white;
+    background-color: wheat;
+}
+
+#services{
+    width: 40%;
+    padding: 40;
+    text-align: center;
+    background-color: rgb(131, 127, 120);
 }
 footer { 
 padding: 12px; 
